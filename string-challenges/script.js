@@ -60,4 +60,4 @@ sliceString = str.slice(18);
 
 console.log("challenge #6:");
 console.log(sliceString);
-console.log("=================");
+console.log("==================");

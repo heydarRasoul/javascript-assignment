@@ -51,3 +51,4 @@ def captialize_first(a):
 
 
 print(captialize_first("abcdef"))
+print(captialize_first("heydar"))
