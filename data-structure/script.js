@@ -2,8 +2,9 @@
 
 const student = {
   id: "123",
-  name: "Heydar",
-  dob: "01/01/1990",
+  name: "Heydar Rasoul",
+  age: 25,
+  dob: "01/01/2000",
   gradesCompleted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   address: {
     street: "200 East, 1200 South",
